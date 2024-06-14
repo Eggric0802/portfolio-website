@@ -3,8 +3,9 @@ import React from 'react';
 function Hero() {
   return (
     <section id="home">
-      <h1>Welcome to My Portfolio</h1>
-      <p>Explore my projects and skills across various domains.</p>
+      <h1>YuChuan (Eric) Lin's Portfolio</h1>
+      <p>Software Engineer | Game Development | VR/AR Enthusiast | H1B Visa Holder
+      </p>
     </section>
   );
 }
